@@ -1,0 +1,807 @@
+[
+  {
+    "id": 1,
+    "titulo": "Interestelar",
+    "slug": "interestelar",
+    "ano": 2014,
+    "genero": "Ficção científica",
+    "sinopse": "Em um futuro marcado por tempestades de poeira e pela escassez de alimentos, a Terra se torna cada vez menos habitável. Cooper, um ex-piloto da NASA que agora trabalha como fazendeiro, descobre uma missão secreta que pode oferecer uma saída para a humanidade. Ao lado de uma equipe de cientistas, ele atravessa um buraco de minhoca em busca de planetas capazes de sustentar a vida. A jornada exige decisões difíceis: enquanto os astronautas enfrentam ambientes desconhecidos e os efeitos da relatividade, os anos continuam passando para a família que Cooper deixou para trás.",
+    "imagem": "https://image.tmdb.org/t/p/w500/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+    "tituloOriginal": "Interstellar",
+    "duracaoMinutos": 169,
+    "diretores": [
+      "Christopher Nolan"
+    ],
+    "generos": [
+      "Ficção científica", 
+      "Aventura", 
+      "Drama"
+    ],
+    "elenco": [
+      {
+        "nome": "Matthew McConaughey",
+        "personagem": "Cooper"
+      },
+      {
+        "nome": "Anne Hathaway",
+        "personagem": "Amelia Brand"
+      },
+      {
+        "nome": "Jessica Chastain",
+        "personagem": "Murph"
+      }
+    ],
+    "tags": [
+      "espaço",
+      "viagem no tempo",
+      "família",
+      "exploração"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
+    "idiomaOriginal": "Inglês"
+  },
+  {
+    "id": 2,
+    "titulo": "A Origem", 
+    "slug": "a-origem", 
+    "ano": 2010,
+    "genero": "Ficção científica",
+    "sinopse": "Dom Cobb é um especialista em extrair segredos do subconsciente durante sonhos compartilhados. Seu talento o tornou valioso para a espionagem corporativa, mas também o afastou dos filhos e o transformou em um fugitivo. Uma proposta oferece a chance de voltar para casa: em vez de roubar uma informação, ele precisa implantar uma ideia na mente de um herdeiro. Para realizar a tarefa, Cobb reúne uma equipe e planeja uma operação em várias camadas de sonhos. À medida que o grupo avança, as lembranças e a culpa de Cobb ameaçam comprometer a missão e tornar cada vez mais difícil distinguir sonho de realidade.",
+    "imagem": "https://image.tmdb.org/t/p/w500/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg",
+    "tituloOriginal": "Inception",
+    "duracaoMinutos": 148,
+    "diretores": [
+      "Christopher Nolan"
+    ],
+    "generos": [
+      "Ficção científica",    
+       "Ação", 
+       "Suspense" 
+    ],
+    "elenco": [
+      {
+        "nome": "Leonardo DiCaprio",
+        "personagem": "Dom Cobb"
+      },
+      {
+        "nome": "Joseph Gordon-Levitt",
+        "personagem": "Arthur"
+      },
+      {
+        "nome": "Elliot Page",
+        "personagem": "Ariadne"
+      }
+    ],
+    "tags": [
+      "sonhos",
+      "subconsciente",
+      "assalto",
+      "realidade"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=Qwe6qXFTdgc",
+    "idiomaOriginal": "Inglês"
+  },
+  {
+    "id": 3,
+    "titulo": "Matrix",
+    "slug": "matrix",
+    "ano": 1999,
+    "genero": "Ficção científica",
+    "sinopse": "Thomas Anderson leva uma vida dupla: durante o dia trabalha como programador e, à noite, atua como o hacker Neo. Inquieto com a sensação de que existe algo errado no mundo, ele segue pistas que o aproximam de Trinity e Morpheus. Os dois revelam que a realidade cotidiana é uma simulação criada por máquinas para manter os seres humanos sob controle. Ao despertar para o mundo exterior, Neo passa a integrar um grupo de resistência e aprende a desafiar as regras da Matrix. Perseguido por agentes capazes de manipular o sistema, ele precisa descobrir em quem confiar e qual é seu papel nessa luta.",
+    "imagem": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "tituloOriginal": "The Matrix",
+    "duracaoMinutos": 136,
+    "diretores": [
+      "Lana Wachowski",
+      "Lilly Wachowski"
+    ],
+    "generos": [
+      "Ficção científica",
+      "Ação"
+    ],
+    "elenco": [
+      {
+        "nome": "Keanu Reeves",
+        "personagem": "Neo"
+      },
+      {
+        "nome": "Laurence Fishburne",
+        "personagem": "Morpheus"
+      },
+      {
+        "nome": "Carrie-Anne Moss",
+        "personagem": "Trinity"
+      },
+      {
+        "nome": "Hugo Weaving",
+        "personagem": "Agente Smith"
+      }
+    ],
+    "tags": [
+      "simulação",
+      "inteligência artificial",
+      "rebelião",
+      "cyberpunk"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=vKQi3bBA1y8",
+    "idiomaOriginal": "Inglês"
+  },
+  {
+    "id": 4,
+    "titulo": "Batman: O Cavaleiro das Trevas",
+    "slug": "batman-o-cavaleiro-das-trevas",
+    "ano": 2008,
+    "genero": "Ação",
+    "sinopse": "Batman intensifica sua luta contra o crime organizado em Gotham com a ajuda do tenente James Gordon e do promotor Harvey Dent. A parceria traz esperança de que a cidade possa recuperar suas instituições e depender menos de um vigilante mascarado. Esse avanço é ameaçado pela chegada do Coringa, um criminoso que usa o medo e a imprevisibilidade para espalhar o caos. Seus ataques colocam autoridades, cidadãos e aliados de Batman diante de escolhas difíceis. Enquanto tenta impedir uma escalada de violência, Bruce Wayne precisa confrontar os limites de seus métodos e o preço de se tornar um símbolo para Gotham.",
+    "imagem": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "tituloOriginal": "The Dark Knight",
+    "duracaoMinutos": 152,
+    "diretores": [
+      "Christopher Nolan"
+    ],
+    "generos": [
+      "Ação",
+      "Crime",
+      "Drama"
+    ],
+    "elenco": [
+      {
+        "nome": "Christian Bale",
+        "personagem": "Bruce Wayne / Batman"
+      },
+      {
+        "nome": "Heath Ledger",
+        "personagem": "Coringa"
+      },
+      {
+        "nome": "Aaron Eckhart",
+        "personagem": "Harvey Dent"
+      },
+      {
+        "nome": "Gary Oldman",
+        "personagem": "James Gordon"
+      }
+    ],
+    "tags": [
+      "super-herói",
+      "Gotham",
+      "crime organizado",
+      "dilemas morais"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
+    "idiomaOriginal": "Inglês"
+  },
+  {
+    "id": 5,
+    "titulo": "O Exterminador do Futuro 2: O Julgamento Final",
+    "slug": "o-exterminador-do-futuro-2-o-julgamento-final",
+    "ano": 1991,
+    "genero": "Ação",
+    "sinopse": "Anos depois de sobreviver a um ataque vindo do futuro, Sarah Connor tenta preparar seu filho John para uma guerra entre humanos e máquinas. Ainda adolescente, ele se torna alvo do T-1000, um exterminador avançado capaz de alterar sua aparência. Para protegê-lo, a resistência envia um T-800 reprogramado, com a mesma aparência da máquina que perseguiu Sarah no passado. Forçados a confiar nesse aliado improvável, mãe e filho fogem enquanto procuram uma maneira de impedir o surgimento da Skynet. Entre perseguições e decisões arriscadas, John começa a compreender a responsabilidade que o futuro reserva para ele.",
+    "imagem": "https://image.tmdb.org/t/p/w500/weVXMD5QBGeQil4HEATZqAkXeEc.jpg",
+    "tituloOriginal": "Terminator 2: Judgment Day",
+    "duracaoMinutos": 137,
+    "diretores": [
+      "James Cameron"
+    ],
+    "generos": [
+      "Ação",
+      "Ficção científica",
+      "Suspense"
+    ],
+    "elenco": [
+      {
+        "nome": "Arnold Schwarzenegger",
+        "personagem": "T-800"
+      },
+      {
+        "nome": "Linda Hamilton",
+        "personagem": "Sarah Connor"
+      },
+      {
+        "nome": "Edward Furlong",
+        "personagem": "John Connor"
+      },
+      {
+        "nome": "Robert Patrick",
+        "personagem": "T-1000"
+      }
+    ],
+    "tags": [
+      "viagem no tempo",
+      "robôs",
+      "inteligência artificial",
+      "futuro"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=ZKEO4073bhE",
+    "idiomaOriginal": "Inglês"
+  },
+  {
+    "id": 6,
+    "titulo": "Um Sonho de Liberdade",
+    "slug": "um-sonho-de-liberdade",
+    "ano": 1994,
+    "genero": "Drama",
+    "sinopse": "Condenado pelo assassinato da esposa e de seu amante, o banqueiro Andy Dufresne chega à prisão de Shawshank afirmando ser inocente. Em meio à violência e à rotina opressiva, ele encontra em Red uma amizade que transforma os anos de encarceramento. Seus conhecimentos financeiros lhe garantem uma posição incomum dentro da instituição, mas também o aproximam de interesses perigosos. Ao longo das décadas, Andy procura preservar a dignidade e a esperança enquanto enfrenta um sistema que parece decidido a apagar ambas.",
+    "imagem": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+    "tituloOriginal": "The Shawshank Redemption",
+    "duracaoMinutos": 142,
+    "diretores": [
+      "Frank Darabont"
+    ],
+    "generos": [
+      "Drama"
+    ],
+    "elenco": [
+      {
+        "nome": "Tim Robbins",
+        "personagem": "Andy Dufresne"
+      },
+      {
+        "nome": "Morgan Freeman",
+        "personagem": "Ellis Boyd Redding / Red"
+      },
+      {
+        "nome": "Bob Gunton",
+        "personagem": "Samuel Norton"
+      }
+    ],
+    "tags": [
+      "prisão",
+      "amizade",
+      "esperança"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=6hB3S9bIaco",
+    "idiomaOriginal": "Inglês"
+  },
+  {
+    "id": 7,
+    "titulo": "Clube da Luta",
+    "slug": "clube-da-luta",
+    "ano": 1999,
+    "genero": "Drama",
+    "sinopse": "Um funcionário de escritório vive entre viagens de trabalho, insônia e compras que não conseguem preencher seu vazio. Ao conhecer Tyler Durden, um vendedor de sabonetes com ideias provocadoras, ele passa a questionar as regras que organizam sua vida. Os dois criam um clube clandestino em que homens se reúnem para lutar. O que começa como uma fuga da rotina atrai novos participantes e assume proporções inesperadas. Conforme a organização cresce, o narrador percebe que está perdendo o controle sobre as consequências de suas escolhas.",
+    "imagem": "https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+    "tituloOriginal": "Fight Club",
+    "duracaoMinutos": 139,
+    "diretores": [
+      "David Fincher"
+    ],
+    "generos": [
+      "Drama",
+      "Suspense"
+    ],
+    "elenco": [
+      {
+        "nome": "Brad Pitt",
+        "personagem": "Tyler Durden"
+      },
+      {
+        "nome": "Edward Norton",
+        "personagem": "Narrador"
+      },
+      {
+        "nome": "Helena Bonham Carter",
+        "personagem": "Marla Singer"
+      }
+    ],
+    "tags": [
+      "identidade",
+      "consumismo",
+      "rebeldia"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=SUXWAEX2jlg",
+    "idiomaOriginal": "Inglês"
+  },
+  {
+    "id": 8,
+    "titulo": "Star Wars: O Império Contra-Ataca",
+    "slug": "star-wars-o-imperio-contra-ataca",
+    "ano": 1980,
+    "genero": "Ficção científica",
+    "sinopse": "Após uma grande vitória da Aliança Rebelde, o Império intensifica a perseguição aos seus inimigos e obriga os heróis a abandonar uma base no planeta gelado Hoth. Luke Skywalker parte em busca de Yoda para aprender os caminhos da Força, enquanto Han Solo e Leia tentam escapar das tropas imperiais. Separados e cercados por incertezas, os amigos enfrentam desafios que testam sua coragem e lealdade. A presença de Darth Vader torna a fuga cada vez mais perigosa e aproxima Luke de revelações capazes de mudar sua jornada.",
+    "imagem": "https://image.tmdb.org/t/p/w500/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+    "tituloOriginal": "Star Wars: Episode V - The Empire Strikes Back",
+    "duracaoMinutos": 127,
+    "diretores": [
+      "Irvin Kershner"
+    ],
+    "generos": [
+      "Ficção científica",
+      "Aventura",
+      "Ação"
+    ],
+    "elenco": [
+      {
+        "nome": "Mark Hamill",
+        "personagem": "Luke Skywalker"
+      },
+      {
+        "nome": "Harrison Ford",
+        "personagem": "Han Solo"
+      },
+      {
+        "nome": "Carrie Fisher",
+        "personagem": "Leia Organa"
+      }
+    ],
+    "tags": [
+      "espaço",
+      "Jedi",
+      "rebelião"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=PkEKIw0FU6Y",
+    "idiomaOriginal": "Inglês"
+  },
+  {
+    "id": 9,
+    "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+    "slug": "o-senhor-dos-aneis-a-sociedade-do-anel",
+    "ano": 2001,
+    "genero": "Fantasia",
+    "sinopse": "Frodo Bolseiro leva uma vida tranquila no Condado até descobrir que o anel herdado de Bilbo está ligado ao poder de Sauron. Para impedir que o objeto retorne ao seu criador, ele precisa deixar sua casa e atravessar uma Terra-média cada vez mais ameaçada. Uma sociedade formada por representantes de diferentes povos se reúne para ajudá-lo a levar o anel até o lugar onde poderá ser destruído. Durante a viagem, perigos externos e a influência do próprio objeto colocam à prova a união e a resistência dos companheiros.",
+    "imagem": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+    "tituloOriginal": "The Lord of the Rings: The Fellowship of the Ring",
+    "duracaoMinutos": 178,
+    "diretores": [
+      "Peter Jackson"
+    ],
+    "generos": [
+      "Fantasia",
+      "Aventura"
+    ],
+    "elenco": [
+      {
+        "nome": "Elijah Wood",
+        "personagem": "Frodo Bolseiro"
+      },
+      {
+        "nome": "Ian McKellen",
+        "personagem": "Gandalf"
+      },
+      {
+        "nome": "Orlando Bloom",
+        "personagem": "Legolas"
+      }
+    ],
+    "tags": [
+      "Terra-média",
+      "magia",
+      "amizade"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=AAGW4jJ9D4o",
+    "idiomaOriginal": "Inglês"
+  },
+  {
+    "id": 10,
+    "titulo": "Um Estranho no Ninho",
+    "slug": "um-estranho-no-ninho",
+    "ano": 1975,
+    "genero": "Drama",
+    "sinopse": "Transferido para uma instituição psiquiátrica, Randle McMurphy acredita ter encontrado uma maneira de escapar do trabalho na prisão. Sua atitude irreverente logo entra em conflito com a rígida rotina imposta pela enfermeira Ratched. Ao incentivar os outros internos a expressarem seus desejos e a desafiarem pequenas regras, ele estabelece amizades e desperta tensões que antes permaneciam escondidas. O que parecia uma disputa cotidiana passa a revelar relações de poder mais profundas, enquanto McMurphy descobre que a liberdade dentro da instituição é muito mais limitada do que imaginava.",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BMTk5OTA4NTc0NF5BMl5BanBnXkFtZTcwNzI5Mzg3OA@@._V1_SX300.jpg",
+    "tituloOriginal": "One Flew Over the Cuckoo's Nest",
+    "duracaoMinutos": 133,
+    "diretores": [
+      "Milos Forman"
+    ],
+    "generos": [
+      "Drama"
+    ],
+    "elenco": [
+      {
+        "nome": "Jack Nicholson",
+        "personagem": "Randle McMurphy"
+      },
+      {
+        "nome": "Louise Fletcher",
+        "personagem": "Enfermeira Ratched"
+      },
+      {
+        "nome": "Will Sampson",
+        "personagem": "Chefe Bromden"
+      }
+    ],
+    "tags": [
+      "liberdade",
+      "autoridade",
+      "confinamento"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=2WSyJgydTsA",
+    "idiomaOriginal": "Inglês"
+  },
+  {
+    "id": 11,
+    "titulo": "Os Bons Companheiros",
+    "slug": "os-bons-companheiros",
+    "ano": 1990,
+    "genero": "Crime",
+    "sinopse": "Desde jovem, Henry Hill se encanta pelo prestígio e pela aparente liberdade dos homens ligados ao crime organizado em seu bairro. Ao entrar nesse universo, ele encontra mentores, parceiros e oportunidades de ascensão que parecem inacessíveis fora dele. A convivência com Jimmy Conway e Tommy DeVito o aproxima de roubos, dinheiro e violência. Com o passar dos anos, o brilho da vida criminosa dá lugar à desconfiança e ao medo. Henry precisa lidar com as consequências de suas escolhas em um ambiente no qual alianças podem mudar rapidamente.",
+    "imagem": "https://image.tmdb.org/t/p/w500/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+    "tituloOriginal": "Goodfellas",
+    "duracaoMinutos": 146,
+    "diretores": [
+      "Martin Scorsese"
+    ],
+    "generos": [
+      "Crime",
+      "Drama"
+    ],
+    "elenco": [
+      {
+        "nome": "Robert De Niro",
+        "personagem": "Jimmy Conway"
+      },
+      {
+        "nome": "Ray Liotta",
+        "personagem": "Henry Hill"
+      },
+      {
+        "nome": "Joe Pesci",
+        "personagem": "Tommy DeVito"
+      }
+    ],
+    "tags": [
+      "máfia",
+      "ambição",
+      "lealdade"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=qo5jJpHtI1Y",
+    "idiomaOriginal": "Inglês"
+  },
+  {
+    "id": 12,
+    "titulo": "Star Wars: Uma Nova Esperança",
+    "slug": "star-wars-uma-nova-esperanca",
+    "ano": 1977,
+    "genero": "Ficção científica",
+    "sinopse": "Luke Skywalker sonha em deixar a fazenda de seus tios quando encontra uma mensagem escondida em um pequeno droide. O pedido de ajuda da princesa Leia o leva até Obi-Wan Kenobi e o envolve na luta contra o Império Galáctico. Ao lado de um piloto contrabandista, seu parceiro e dois droides, Luke parte para uma missão que ultrapassa tudo o que conhecia. Enquanto descobre a existência da Força, ele precisa ajudar os rebeldes a enfrentar uma estação espacial capaz de destruir planetas inteiros.",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BMTU4NTczODkwM15BMl5BanBnXkFtZTcwMzEyMTIyMw@@._V1_SX300.jpg",
+    "tituloOriginal": "Star Wars",
+    "duracaoMinutos": 121,
+    "diretores": [
+      "George Lucas"
+    ],
+    "generos": [
+      "Ficção científica",
+      "Aventura",
+      "Ação"
+    ],
+    "elenco": [
+      {
+        "nome": "Mark Hamill",
+        "personagem": "Luke Skywalker"
+      },
+      {
+        "nome": "Harrison Ford",
+        "personagem": "Han Solo"
+      },
+      {
+        "nome": "Carrie Fisher",
+        "personagem": "Leia Organa"
+      }
+    ],
+    "tags": [
+      "espaço",
+      "rebelião",
+      "Jedi"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=9gvqpFbRKtQ",
+    "idiomaOriginal": "Inglês"
+  },
+  {
+    "id": 13,
+    "titulo": "Os Sete Samurais",
+    "slug": "os-sete-samurais",
+    "ano": 1954,
+    "genero": "Ação",
+    "sinopse": "Uma aldeia de camponeses descobre que será atacada por bandidos após a colheita e decide buscar ajuda para se defender. Sem dinheiro, os moradores oferecem comida a samurais dispostos a lutar por eles. Um guerreiro experiente aceita a tarefa e reúne um pequeno grupo de companheiros com habilidades e personalidades diferentes. A preparação exige muito mais do que armas: aldeões e combatentes precisam superar o medo, a desconfiança e as diferenças sociais. À medida que o confronto se aproxima, a sobrevivência da comunidade passa a depender da capacidade de todos agirem juntos.",
+    "imagem": "https://image.tmdb.org/t/p/w500/8OKmBV5BUFzmozIC3pPWKHy17kx.jpg",
+    "tituloOriginal": "Seven Samurai",
+    "duracaoMinutos": 158,
+    "diretores": [
+      "Akira Kurosawa"
+    ],
+    "generos": [
+      "Ação",
+      "Drama"
+    ],
+    "elenco": [
+      {
+        "nome": "Toshirō Mifune",
+        "personagem": "Kikuchiyo"
+      },
+      {
+        "nome": "Takashi Shimura",
+        "personagem": "Kambei Shimada"
+      },
+      {
+        "nome": "Yoshio Inaba",
+        "personagem": "Gorobei Katayama"
+      }
+    ],
+    "tags": [
+      "samurais",
+      "aldeia",
+      "cooperação"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=7mw6LyyoeGE",
+    "idiomaOriginal": "Japonês"
+  },
+  {
+    "id": 14,
+    "titulo": "Forrest Gump: O Contador de Histórias",
+    "slug": "forrest-gump-o-contador-de-historias",
+    "ano": 1994,
+    "genero": "Drama",
+    "sinopse": "Sentado em um ponto de ônibus, Forrest Gump compartilha histórias de uma vida que atravessou acontecimentos marcantes dos Estados Unidos. Da infância no Alabama ao serviço militar e a oportunidades inesperadas, ele enfrenta cada etapa com perseverança e a influência dos ensinamentos de sua mãe. Suas experiências o aproximam de pessoas que mudam seu caminho, mas a lembrança de Jenny, sua amiga de infância, permanece central. Entre encontros, despedidas e recomeços, Forrest busca compreender os vínculos que dão sentido à sua trajetória.",
+    "imagem": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
+    "tituloOriginal": "Forrest Gump",
+    "duracaoMinutos": 142,
+    "diretores": [
+      "Robert Zemeckis"
+    ],
+    "generos": [
+      "Drama",
+      "Romance"
+    ],
+    "elenco": [
+      {
+        "nome": "Tom Hanks",
+        "personagem": "Forrest Gump"
+      },
+      {
+        "nome": "Robin Wright",
+        "personagem": "Jenny Curran"
+      },
+      {
+        "nome": "Gary Sinise",
+        "personagem": "Tenente Dan Taylor"
+      }
+    ],
+    "tags": [
+      "memórias",
+      "amizade",
+      "história"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=uPIEn0M8su0",
+    "idiomaOriginal": "Inglês"
+  },
+  {
+    "id": 15,
+    "titulo": "O Poderoso Chefão",
+    "slug": "o-poderoso-chefao",
+    "ano": 1972,
+    "genero": "Crime",
+    "sinopse": "Vito Corleone comanda uma poderosa família do crime em Nova York, equilibrando negócios ilegais, relações políticas e obrigações familiares. Seu filho Michael retorna da guerra determinado a manter distância desse universo e construir uma vida diferente. Uma disputa entre organizações rivais, porém, ameaça a segurança dos Corleone e obriga cada membro da família a assumir novas responsabilidades. Conforme os conflitos se intensificam, Michael se vê cada vez mais envolvido nas decisões do pai. Lealdade, ambição e violência passam a redesenhar tanto seu futuro quanto o destino da família.",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BMjEyMjcyNDI4MF5BMl5BanBnXkFtZTcwMDA5Mzg3OA@@._V1_SX300.jpg",
+    "tituloOriginal": "The Godfather",
+    "duracaoMinutos": 175,
+    "diretores": [
+      "Francis Ford Coppola"
+    ],
+    "generos": [
+      "Crime",
+      "Drama"
+    ],
+    "elenco": [
+      {
+        "nome": "Marlon Brando",
+        "personagem": "Vito Corleone"
+      },
+      {
+        "nome": "Al Pacino",
+        "personagem": "Michael Corleone"
+      },
+      {
+        "nome": "James Caan",
+        "personagem": "Sonny Corleone"
+      }
+    ],
+    "tags": [
+      "máfia",
+      "família",
+      "poder"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=sY1S34973zA",
+    "idiomaOriginal": "Inglês"
+  },
+  {
+    "id": 16,
+    "titulo": "O Senhor dos Anéis: As Duas Torres",
+    "slug": "o-senhor-dos-aneis-as-duas-torres",
+    "ano": 2002,
+    "genero": "Fantasia",
+    "sinopse": "Com a Sociedade do Anel dividida, seus integrantes precisam seguir caminhos diferentes em uma Terra-média ameaçada pela guerra. Frodo e Sam avançam em direção a Mordor e encontram em Gollum um guia tão útil quanto imprevisível. Enquanto isso, Aragorn, Legolas e Gimli se envolvem na defesa de Rohan contra as forças de Saruman. Longe dali, Merry e Pippin descobrem aliados inesperados na floresta. Cada grupo enfrenta suas próprias dificuldades, mas todos dependem de resistir por tempo suficiente para que a missão do anel ainda tenha uma chance.",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BMTAyNDU0NjY4NTheQTJeQWpwZ15BbWU2MDk4MTY2Nw@@._V1_SX300.jpg",
+    "tituloOriginal": "The Lord of the Rings: The Two Towers",
+    "duracaoMinutos": 179,
+    "diretores": [
+      "Peter Jackson"
+    ],
+    "generos": [
+      "Fantasia",
+      "Aventura"
+    ],
+    "elenco": [
+      {
+        "nome": "Elijah Wood",
+        "personagem": "Frodo Bolseiro"
+      },
+      {
+        "nome": "Ian McKellen",
+        "personagem": "Gandalf"
+      },
+      {
+        "nome": "Orlando Bloom",
+        "personagem": "Legolas"
+      }
+    ],
+    "tags": [
+      "Terra-média",
+      "batalha",
+      "amizade"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=Wek5UClasY8",
+    "idiomaOriginal": "Inglês"
+  },
+  {
+    "id": 17,
+    "titulo": "Cidade de Deus",
+    "slug": "cidade-de-deus",
+    "ano": 2002,
+    "genero": "Crime",
+    "sinopse": "Buscapé cresce na Cidade de Deus, no Rio de Janeiro, observando as transformações da comunidade e a presença cada vez maior da violência. Apaixonado por fotografia, ele procura um caminho diferente daquele seguido por jovens que entram para o crime. Sua trajetória se cruza com a de Zé Pequeno e com disputas que alteram a vida de todos ao redor. Ao acompanhar diferentes personagens ao longo dos anos, o filme mostra como ambição, amizade e falta de perspectivas se entrelaçam. A câmera se torna, para Buscapé, uma possibilidade de contar o que vê e buscar outro futuro.",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BMjA4ODQ3ODkzNV5BMl5BanBnXkFtZTYwOTc4NDI3._V1_SX300.jpg",
+    "tituloOriginal": "City of God",
+    "duracaoMinutos": 130,
+    "diretores": [
+      "Fernando Meirelles",
+      "Kátia Lund"
+    ],
+    "generos": [
+      "Crime",
+      "Drama"
+    ],
+    "elenco": [
+      {
+        "nome": "Alexandre Rodrigues",
+        "personagem": "Buscapé"
+      },
+      {
+        "nome": "Leandro Firmino",
+        "personagem": "Zé Pequeno"
+      },
+      {
+        "nome": "Phellipe Haagensen",
+        "personagem": "Bené"
+      }
+    ],
+    "tags": [
+      "Rio de Janeiro",
+      "fotografia",
+      "juventude"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=ioUE_5wpg_E",
+    "idiomaOriginal": "Português"
+  },
+  {
+    "id": 18,
+    "titulo": "Seven: Os Sete Crimes Capitais",
+    "slug": "seven-os-sete-crimes-capitais",
+    "ano": 1995,
+    "genero": "Suspense",
+    "sinopse": "Às vésperas da aposentadoria, o detetive Somerset recebe a companhia de Mills, um investigador mais jovem e impulsivo. Uma sequência de assassinatos os leva a suspeitar de um criminoso que organiza seus atos a partir dos sete pecados capitais. Em uma cidade marcada pela chuva e pelo desgaste cotidiano, a investigação exige que os dois combinem métodos e temperamentos muito diferentes. Conforme novas pistas aparecem, o caso deixa de parecer uma série de crimes isolados. Os detetives precisam antecipar os próximos passos de alguém que pretende transformar a violência em uma mensagem.",
+    "imagem": "https://image.tmdb.org/t/p/w500/6yoghtyTpznpBik8EngEmJskVUO.jpg",
+    "tituloOriginal": "Se7en",
+    "duracaoMinutos": 127,
+    "diretores": [
+      "David Fincher"
+    ],
+    "generos": [
+      "Suspense",
+      "Crime",
+      "Drama"
+    ],
+    "elenco": [
+      {
+        "nome": "Morgan Freeman",
+        "personagem": "William Somerset"
+      },
+      {
+        "nome": "Brad Pitt",
+        "personagem": "David Mills"
+      },
+      {
+        "nome": "Gwyneth Paltrow",
+        "personagem": "Tracy Mills"
+      }
+    ],
+    "tags": [
+      "investigação",
+      "mistério",
+      "detetives"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=J4YV2_TcCoE",
+    "idiomaOriginal": "Inglês"
+  },
+  {
+    "id": 19,
+    "titulo": "Titanic",
+    "slug": "titanic",
+    "ano": 1997,
+    "genero": "Romance",
+    "sinopse": "Durante a viagem inaugural do Titanic, Rose, uma jovem da primeira classe, conhece Jack, um artista que embarcou após ganhar sua passagem em um jogo. Apesar das diferenças sociais e das expectativas impostas à vida de Rose, os dois se aproximam e descobrem novas possibilidades para o futuro. O romance enfrenta a oposição de pessoas que desejam preservar as convenções e os interesses de suas famílias. Quando o navio atinge um iceberg, os conflitos pessoais dão lugar a uma luta urgente pela sobrevivência em meio ao caos.",
+    "imagem": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+    "tituloOriginal": "Titanic",
+    "duracaoMinutos": 194,
+    "diretores": [
+      "James Cameron"
+    ],
+    "generos": [
+      "Romance",
+      "Drama"
+    ],
+    "elenco": [
+      {
+        "nome": "Leonardo DiCaprio",
+        "personagem": "Jack Dawson"
+      },
+      {
+        "nome": "Kate Winslet",
+        "personagem": "Rose DeWitt Bukater"
+      },
+      {
+        "nome": "Billy Zane",
+        "personagem": "Cal Hockley"
+      }
+    ],
+    "tags": [
+      "navio",
+      "romance",
+      "tragédia"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=gv2tYALNwfU",
+    "idiomaOriginal": "Inglês"
+  },
+  {
+    "id": 20,
+    "titulo": "Gladiador",
+    "slug": "gladiador",
+    "ano": 2000,
+    "genero": "Ação",
+    "sinopse": "Maximus é um general romano respeitado por seus soldados e pelo imperador, mas uma disputa pela sucessão do poder destrói sua posição e ameaça tudo o que ele valoriza. Traído e afastado de sua família, ele acaba vendido como escravo e obrigado a lutar como gladiador. Sua experiência militar e sua determinação chamam a atenção nas arenas, oferecendo uma possibilidade de retornar a Roma. Enquanto conquista a admiração do público, Maximus precisa enfrentar adversários e interesses políticos que tornam cada combate parte de uma disputa muito maior.",
+    "imagem": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+    "tituloOriginal": "Gladiator",
+    "duracaoMinutos": 155,
+    "diretores": [
+      "Ridley Scott"
+    ],
+    "generos": [
+      "Ação",
+      "Drama",
+      "Aventura"
+    ],
+    "elenco": [
+      {
+        "nome": "Russell Crowe",
+        "personagem": "Maximus"
+      },
+      {
+        "nome": "Joaquin Phoenix",
+        "personagem": "Commodus"
+      },
+      {
+        "nome": "Connie Nielsen",
+        "personagem": "Lucilla"
+      }
+    ],
+    "tags": [
+      "Roma",
+      "arena",
+      "vingança"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=TcYIqlBihW4",
+    "idiomaOriginal": "Inglês"
+  }
+]
